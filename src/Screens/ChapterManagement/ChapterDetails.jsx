@@ -197,9 +197,9 @@ export const ChapterDetails = () => {
             })
     }
 
-    useEffect(() => {
-        editDetailData()
-    }, []);
+    // useEffect(() => {
+    //     editDetailData()
+    // }, []);
     return (
         <>
             <DashboardLayout>
